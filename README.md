@@ -4,6 +4,7 @@
 
 ## 💻 My current technology knowledge
 [![Python](https://img.shields.io/badge/-Python-282C34?logo=Python&logoColor=yellow)](https://www.python.org/)
+[![CSharp](https://img.shields.io/badge/C%23-282C34?logo=CSharp&logoColor=0076F7)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [![HTML](https://img.shields.io/badge/-HTML-282C34?logo=HTML5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-282C34?logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
